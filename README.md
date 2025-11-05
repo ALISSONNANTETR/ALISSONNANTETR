@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩🏻‍💻 Alisson Nantet Rosa
 
-<!--
-**ALISSONNANTETR/ALISSONNANTETR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Sistemas Nível II`**
 
-Here are some ideas to get you started:
+Me chamo Alisson Nantet, tenho 21 ano e sou natural de Jerônimo Monteiro. Atualmente, atuo como Analista de Suporte Nível 2, com foco em bancos de dados e na plataforma TOTVS RM, onde realizo consultas SQL, manutenção de dados e crio soluções personalizadas para otimizar processos e o atendimento interno.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência prática com SQL, desenvolvimento de APIs em C#, e administração de servidores Linux, incluindo serviços como NGINX, VPN, e Nextcloud.
+
+Sou movido por desafios que envolvam tecnologia, automação e eficiência, e busco constantemente aprender e explorar novas formas de integrar dados e desenvolvimento para gerar valor real às operações.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,linux,arch,git,docker,postgresql,vim,)](https://skillicons.dev)
+
+      
+<br/>
+
+### 📊 Estatísticas
+
+<!-- <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ALISSONNANTETR&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=360&count_private=true"
+  /> -->
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSONNANTETR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=360&count_private=true"
+  />
+
+</p>
