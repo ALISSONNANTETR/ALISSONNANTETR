@@ -12,7 +12,7 @@ Sou movido por desafios que envolvam tecnologia, automação e eficiência, e bu
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,linux,arch,git,docker,postgresql,vim,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,linux,arch,git,docker,postgresql,<!-- vim,-->)](https://skillicons.dev)
 
       
 <br/>
