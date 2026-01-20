@@ -16,24 +16,23 @@ Sou movido por desafios que envolvam tecnologia, automação e eficiência, e bu
 
       
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
-<!-- <p>
-  <img 
+<p>
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ALISSONNANTETR&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=360&count_private=true"
-  /> -->
-
+    src="https://github-readme-stats.vercel.app/api?username=ALISSONNANTETR&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=360"
+/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSONNANTETR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=360&count_private=true"
-  />
-
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSONNANTETR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=360"
+/>
 </p>
+-->
